@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python 3, HTML5, CSS, JavaScript
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me: Email: adamalec97@gmail.com
-- ⚡ Fun fact: I play guitar, piano, and learning bass!
+- ⚡ Fun fact: I play guitar, piano, and I am currently learning musical composing!
 
 <!---
 themadadder/themadadder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
